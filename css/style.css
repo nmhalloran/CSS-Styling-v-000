@@ -1,0 +1,20 @@
+/* This
+is
+a comment */
+
+/* CSS Syntax
+
+selector {
+  property: value;
+  property: value;
+
+}
+
+*/
+
+/* Type selector */
+
+p { /* select all <p> */
+font-size: 32px; /* 7pt, 100%, 1em */
+line-height: 3.5em;
+}
